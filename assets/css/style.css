@@ -9,6 +9,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
 
+/*header*/
+
+#hero{
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    background-color: #dbdcde; /*light grey*/ ;
+    background-position: 50% 70%;
+    min-height: 500px;
+    padding: 5% 7%;
+}
+
+
 body{
     font-family: "Poppins", sans-serif;
     background-color: #a4c2d1; /*egg blue*/;
